@@ -1,14 +1,14 @@
 {
-  "name": "react-native-extend-stylesheet",
+  "name": "react-native-theme-stylesheet",
   "version": "1.0.0",
-  "description": "react-native-extend-stylesheet",
+  "description": "react-native-theme-stylesheet",
   "main": "index.js",
   "scripts": {
     "test": "null"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-extend/react-native-extend-stylesheet.git"
+    "url": "git+https://github.com/react-native-extend/react-native-theme-stylesheet.git"
   },
   "devDependencies": {
     "react-native":"*"
@@ -16,12 +16,13 @@
   "keywords": [
     "react",
     "native",
-    "stylesheet"
+    "stylesheet",
+    "theme"
   ],
   "author": "Spencer Ye",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/react-native-extend/react-native-extend-stylesheet/issues"
+    "url": "https://github.com/react-native-extend/react-native-theme-stylesheet/issues"
   },
-  "homepage": "https://github.com/react-native-extend/react-native-extend-stylesheet#readme"
+  "homepage": "https://github.com/react-native-extend/react-native-theme-stylesheet#readme"
 }

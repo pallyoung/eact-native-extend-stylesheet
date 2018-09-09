@@ -1,2 +1,2 @@
-# eact-native-extend-stylesheet
+# eact-native-theme-stylesheet
 react native stylesheet api extend
