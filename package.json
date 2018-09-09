@@ -1,0 +1,27 @@
+{
+  "name": "react-native-extend-stylesheet",
+  "version": "1.0.0",
+  "description": "react-native-extend-stylesheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-extend/react-native-extend-stylesheet.git"
+  },
+  "devDependencies": {
+    "react-native":"*"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "stylesheet"
+  ],
+  "author": "Spencer Ye",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/react-native-extend/react-native-extend-stylesheet/issues"
+  },
+  "homepage": "https://github.com/react-native-extend/react-native-extend-stylesheet#readme"
+}
